@@ -2,7 +2,7 @@
 
 This project focuses on creating an interactive dashboard to help users find used cars based on preferences like make, model, year, and price range. By cleaning and visualizing the data, users can explore car options dynamically and receive personalized recommendations.
 
-For a better viewing experience, you can access the interactive dashboard and insights on [Power BI Service](#) (link can be added if applicable).
+To interact with the dashboard you can download the PowerBi file, or there is a pdf file for general overview on the dashboard.
 
 ---
 
